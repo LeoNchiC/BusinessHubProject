@@ -1,4 +1,4 @@
-[Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+[Image alt](https://cdn.discordapp.com/attachments/934800966094581810/1367504669156442173/nyArtboard_1BHB.png?ex=6814d378&is=681381f8&hm=c440a1ef035422fe070eb0857dbb2009550ba3c00b07677bdcf16eb940f96b04&)
 
 # Business Hub
 
