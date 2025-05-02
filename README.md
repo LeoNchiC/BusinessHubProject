@@ -1,4 +1,4 @@
-# Business Hub
+# Business Hub Project
 ![Image alt](https://cdn.discordapp.com/attachments/934800966094581810/1367507655601557504/nyArtboard_1BHB2.png?ex=6814d640&is=681384c0&hm=ee336d42af306a93bef0f25e6bfe3f8add6dd6cf94bc5e6473df47a2bfd9980f&)
 
 
